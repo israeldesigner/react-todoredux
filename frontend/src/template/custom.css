@@ -1,0 +1,13 @@
+.btn{
+    margin-right: 4px;
+}
+
+.markDone{
+    text-decoration: line-through;
+    color: #888;
+}
+
+.markPending{
+    background: coral;
+    color: #555
+}
